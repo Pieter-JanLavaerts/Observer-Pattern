@@ -1,6 +1,6 @@
 #include "Clock.h"
 #include "TimePrinter.h"
-#include "timewindow.h"
+#include "TimeWindow.h"
 #include <thread>
 
 using namespace std;

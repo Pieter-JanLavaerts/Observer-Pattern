@@ -1,4 +1,4 @@
-#include "timewindow.h"
+#include "TimeWindow.h"
 #include "Clock.h"
 #include <iostream>
 
