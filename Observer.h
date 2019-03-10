@@ -10,7 +10,7 @@ class Observer
 {
 public:
   Observer(Observable *o);
-  virtual void update(){cout << "Superclass update" << endl;}
+  virtual void update(){}
 
 private:
   Observable *observable;
